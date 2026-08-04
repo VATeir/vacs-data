@@ -246,7 +246,7 @@ profile_id = "EISG"
 [[positions]]
 id = "EIWF_TWR"
 prefixes = ["EIWF"]
-frequency = "129.850"
+frequency = "129.855"
 facility_type = "TWR"
 profile_id = "EIWF"
 
@@ -288,7 +288,7 @@ profile_id = "EIKN"
 [[positions]]
 id = "EIWF_GND"
 prefixes = ["EIWF"]
-frequency = "121.600"
+frequency = "121.605"
 facility_type = "GND"
 profile_id = "EIWF"
 
