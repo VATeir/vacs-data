@@ -3,6 +3,7 @@ id = "LFXX_FMP"
 prefixes = ["LFXX"]
 frequency = "199.998"
 facility_type = "FMP"
+profile_id = "LFFF"
 default_call_sources = ["LFXX_FMP"]
 
 [[positions]]
@@ -17,6 +18,7 @@ id = "PAR_AENB_CTR"
 prefixes = ["PAR"]
 frequency = "125.455"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = [
   "PAR_AP",
   "PAR_TB",
@@ -35,6 +37,7 @@ id = "PAR_AOML_CTR"
 prefixes = ["PAR"]
 frequency = "129.625"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_AO", "PAR_AR", "PAR_US", "PAR_TL", "PAR_TM"]
 
 [[positions]]
@@ -42,6 +45,7 @@ id = "PAR_AOUS_CTR"
 prefixes = ["PAR"]
 frequency = "132.675"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_AO", "PAR_US"]
 
 [[positions]]
@@ -49,6 +53,7 @@ id = "PAR_AO_CTR"
 prefixes = ["PAR"]
 frequency = "125.080"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_AO"]
 
 [[positions]]
@@ -56,6 +61,7 @@ id = "PAR_APTE_CTR"
 prefixes = ["PAR"]
 frequency = "131.055"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_AP", "PAR_TE"]
 
 [[positions]]
@@ -63,6 +69,7 @@ id = "PAR_AP_CTR"
 prefixes = ["PAR"]
 frequency = "131.065"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_AP"]
 
 [[positions]]
@@ -70,6 +77,7 @@ id = "PAR_ARML_CTR"
 prefixes = ["PAR"]
 frequency = "125.700"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_AR", "PAR_TL", "PAR_TM"]
 
 [[positions]]
@@ -77,6 +85,7 @@ id = "PAR_AR_CTR"
 prefixes = ["PAR"]
 frequency = "132.100"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_AR"]
 
 [[positions]]
@@ -84,6 +93,7 @@ id = "PAR_CTR"
 prefixes = ["PAR"]
 frequency = "128.275"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = [
   "LFPM_SJ_APP",
   "PAR_OG",
@@ -187,6 +197,7 @@ id = "PAR_DGTJ_CTR"
 prefixes = ["PAR"]
 frequency = "126.100"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = [
   "PAR_TU",
   "PAR_TW",
@@ -208,6 +219,7 @@ id = "PAR_DG_CTR"
 prefixes = ["PAR"]
 frequency = "124.630"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_DG", "PAR_DS"]
 
 [[positions]]
@@ -215,6 +227,7 @@ id = "PAR_DODG_CTR"
 prefixes = ["PAR"]
 frequency = "127.080"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = [
   "PAR_DO",
   "PAR_S",
@@ -266,6 +279,7 @@ id = "PAR_DOGS_CTR"
 prefixes = ["PAR"]
 frequency = "135.405"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = [
   "PAR_DO",
   "PAR_S",
@@ -317,6 +331,7 @@ id = "PAR_FPAE_CTR"
 prefixes = ["PAR"]
 frequency = "125.060"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = [
   "PAR_DO",
   "PAR_S",
@@ -368,6 +383,7 @@ id = "PAR_HPKZ_CTR"
 prefixes = ["PAR"]
 frequency = "132.680"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = [
   "PAR_TP",
   "PAR_UK",
@@ -389,6 +405,7 @@ id = "PAR_HP_CTR"
 prefixes = ["PAR"]
 frequency = "122.615"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_HP"]
 
 [[positions]]
@@ -396,6 +413,7 @@ id = "PAR_LMHJ_CTR"
 prefixes = ["PAR"]
 frequency = "132.730"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = [
   "PAR_TU",
   "PAR_TW",
@@ -411,6 +429,7 @@ id = "PAR_LMH_CTR"
 prefixes = ["PAR"]
 frequency = "132.740"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_HP", "PAR_PU", "PAR_PW", "PAR_UP", "PAR_UT"]
 
 [[positions]]
@@ -418,6 +437,7 @@ id = "PAR_LOW_CTR"
 prefixes = ["PAR"]
 frequency = "135.410"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = [
   "LFPM_SJ_APP",
   "PAR_OG",
@@ -521,6 +541,7 @@ id = "PAR_OPKZ_CTR"
 prefixes = ["PAR"]
 frequency = "127.305"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = [
   "PAR_OG",
   "PAR_OT",
@@ -549,6 +570,7 @@ id = "PAR_ORGY_CTR"
 prefixes = ["PAR"]
 frequency = "127.310"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = [
   "PAR_OG",
   "PAR_OT",
@@ -564,6 +586,7 @@ id = "PAR_OT_CTR"
 prefixes = ["PAR"]
 frequency = "118.725"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = [
   "PAR_OT",
   "PAR_OY",
@@ -577,6 +600,7 @@ id = "PAR_PU_CTR"
 prefixes = ["PAR"]
 frequency = "132.755"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_PU", "PAR_PW"]
 
 [[positions]]
@@ -584,6 +608,7 @@ id = "PAR_RPAE_CTR"
 prefixes = ["PAR"]
 frequency = "133.560"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = [
   "LFPM_SJ_APP",
   "LFPM_SI_APP",
@@ -657,6 +682,7 @@ id = "PAR_RPAW_CTR"
 prefixes = ["PAR"]
 frequency = "133.925"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = [
   "PAR_OG",
   "PAR_AP",
@@ -695,6 +721,7 @@ id = "PAR_RT_CTR"
 prefixes = ["PAR"]
 frequency = "122.575"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_RT"]
 
 [[positions]]
@@ -702,6 +729,7 @@ id = "PAR_TB_CTR"
 prefixes = ["PAR"]
 frequency = "128.275"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = [
   "PAR_TB",
   "LFQQ_QE_APP",
@@ -726,6 +754,7 @@ id = "PAR_TE_CTR"
 prefixes = ["PAR"]
 frequency = "128.105"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_TE"]
 
 [[positions]]
@@ -733,6 +762,7 @@ id = "PAR_THUZ_CTR"
 prefixes = ["PAR"]
 frequency = "129.150"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_TH"]
 
 [[positions]]
@@ -740,6 +770,7 @@ id = "PAR_TH_CTR"
 prefixes = ["PAR"]
 frequency = "124.850"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_TH"]
 
 [[positions]]
@@ -747,6 +778,7 @@ id = "PAR_TL_CTR"
 prefixes = ["PAR"]
 frequency = "120.955"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_TL"]
 
 [[positions]]
@@ -754,6 +786,7 @@ id = "PAR_TML_CTR"
 prefixes = ["PAR"]
 frequency = "133.920"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_TL", "PAR_TM"]
 
 [[positions]]
@@ -761,6 +794,7 @@ id = "PAR_TM_CTR"
 prefixes = ["PAR"]
 frequency = "131.180"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_TM"]
 
 [[positions]]
@@ -768,6 +802,7 @@ id = "PAR_TNTB_CTR"
 prefixes = ["PAR"]
 frequency = "135.660"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = [
   "PAR_TB",
   "PAR_TN",
@@ -784,6 +819,7 @@ id = "PAR_TN_CTR"
 prefixes = ["PAR"]
 frequency = "135.550"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_TN"]
 
 [[positions]]
@@ -791,6 +827,7 @@ id = "PAR_TP_CTR"
 prefixes = ["PAR"]
 frequency = "128.875"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_TP"]
 
 [[positions]]
@@ -798,6 +835,7 @@ id = "PAR_UJ_CTR"
 prefixes = ["PAR"]
 frequency = "132.380"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_TU", "PAR_TW", "PAR_UJ"]
 
 [[positions]]
@@ -805,6 +843,7 @@ id = "PAR_UK_CTR"
 prefixes = ["PAR"]
 frequency = "129.005"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_UK"]
 
 [[positions]]
@@ -812,6 +851,7 @@ id = "PAR_UP_CTR"
 prefixes = ["PAR"]
 frequency = "118.230"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_UP"]
 
 [[positions]]
@@ -819,6 +859,7 @@ id = "PAR_US_CTR"
 prefixes = ["PAR"]
 frequency = "128.140"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_US"]
 
 [[positions]]
@@ -826,6 +867,7 @@ id = "PAR_UT_CTR"
 prefixes = ["PAR"]
 frequency = "133.505"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_UT"]
 
 [[positions]]
@@ -833,6 +875,7 @@ id = "PAR_UZ_CTR"
 prefixes = ["PAR"]
 frequency = "131.255"
 facility_type = "CTR"
+profile_id = "LFFF"
 default_call_sources = ["PAR_UZ"]
 
 [[positions]]
@@ -840,6 +883,7 @@ id = "LFPG_N_DEP"
 prefixes = ["LFPG"]
 frequency = "124.355"
 facility_type = "DEP"
+profile_id = "LFPG"
 default_call_sources = [
   "LFPG_N_DEP",
   "LFPG_S_DEP",
@@ -879,6 +923,7 @@ id = "LFPG_S_DEP"
 prefixes = ["LFPG"]
 frequency = "133.380"
 facility_type = "DEP"
+profile_id = "LFPG"
 default_call_sources = [
   "LFPG_S_DEP",
   "LFPO_APP",
@@ -902,6 +947,7 @@ id = "LFPO_DEP"
 prefixes = ["LFPO"]
 frequency = "127.750"
 facility_type = "DEP"
+profile_id = "LFPO"
 default_call_sources = [
   "LFPO_DEP",
   "LFPN_TWR",
@@ -931,6 +977,7 @@ id = "LFOB_APP"
 prefixes = ["LFOB"]
 frequency = "123.985"
 facility_type = "APP"
+profile_id = "LFOB"
 default_call_sources = ["LFOB_APP", "LFOB_I_APP", "LFOB_TWR"]
 
 [[positions]]
@@ -938,6 +985,7 @@ id = "LFOB_I_APP"
 prefixes = ["LFOB"]
 frequency = "119.800"
 facility_type = "APP"
+profile_id = "LFOB"
 default_call_sources = ["LFOB_I_APP"]
 
 [[positions]]
@@ -980,6 +1028,7 @@ id = "LFPG_FN_APP"
 prefixes = ["LFPG"]
 frequency = "126.430"
 facility_type = "APP"
+profile_id = "LFPG"
 default_call_sources = ["LFPG_FN_APP", "LFPG_FS_APP"]
 
 [[positions]]
@@ -987,6 +1036,7 @@ id = "LFPG_FS_APP"
 prefixes = ["LFPG"]
 frequency = "118.155"
 facility_type = "APP"
+profile_id = "LFPG"
 default_call_sources = ["LFPG_FS_APP"]
 
 [[positions]]
@@ -994,6 +1044,7 @@ id = "LFPG_N_APP"
 prefixes = ["LFPG"]
 frequency = "121.155"
 facility_type = "APP"
+profile_id = "LFPG"
 default_call_sources = [
   "LFPG_N_APP",
   "LFOB_APP",
@@ -1041,6 +1092,7 @@ id = "LFPG_S_APP"
 prefixes = ["LFPG"]
 frequency = "125.830"
 facility_type = "APP"
+profile_id = "LFPG"
 default_call_sources = [
   "LFPG_S_APP",
   "LFPG_S_DEP",
@@ -1140,6 +1192,7 @@ id = "LFPO_APP"
 prefixes = ["LFPO"]
 frequency = "123.875"
 facility_type = "APP"
+profile_id = "LFPO"
 default_call_sources = [
   "LFPO_APP",
   "LFPO_DEP",
@@ -1157,6 +1210,7 @@ id = "LFPO_F_APP"
 prefixes = ["LFPO"]
 frequency = "124.450"
 facility_type = "APP"
+profile_id = "LFPO"
 default_call_sources = ["LFPO_F_APP"]
 
 [[positions]]
@@ -1322,6 +1376,7 @@ id = "LFOB_TWR"
 prefixes = ["LFOB"]
 frequency = "121.400"
 facility_type = "TWR"
+profile_id = "LFOB"
 default_call_sources = ["LFOB_TWR"]
 
 [[positions]]
@@ -1364,6 +1419,7 @@ id = "LFPG_N_TWR"
 prefixes = ["LFPG"]
 frequency = "119.255"
 facility_type = "TWR"
+profile_id = "LFPG"
 default_call_sources = [
   "LFPG_N_TWR",
   "LFPG_S_TWR",
@@ -1386,6 +1442,7 @@ id = "LFPG_S_TWR"
 prefixes = ["LFPG"]
 frequency = "120.905"
 facility_type = "TWR"
+profile_id = "LFPG"
 default_call_sources = ["LFPG_S_TWR"]
 
 [[positions]]
@@ -1414,6 +1471,7 @@ id = "LFPO_TWR"
 prefixes = ["LFPO"]
 frequency = "118.700"
 facility_type = "TWR"
+profile_id = "LFPO"
 default_call_sources = ["LFPO_TWR", "LFPO_GND", "LFPO_DEL"]
 
 [[positions]]
@@ -1456,6 +1514,7 @@ id = "LFPG_NP_GND"
 prefixes = ["LFPG"]
 frequency = "121.780"
 facility_type = "GND"
+profile_id = "LFPG"
 default_call_sources = ["LFPG_NP_GND"]
 
 [[positions]]
@@ -1463,6 +1522,7 @@ id = "LFPG_N_GND"
 prefixes = ["LFPG"]
 frequency = "121.610"
 facility_type = "GND"
+profile_id = "LFPG"
 default_call_sources = [
   "LFPG_N_GND",
   "LFPG_NP_GND",
@@ -1483,6 +1543,7 @@ id = "LFPG_SE_GND"
 prefixes = ["LFPG"]
 frequency = "121.980"
 facility_type = "GND"
+profile_id = "LFPG"
 default_call_sources = ["LFPG_SE_GND"]
 
 [[positions]]
@@ -1490,6 +1551,7 @@ id = "LFPG_SW_GND"
 prefixes = ["LFPG"]
 frequency = "121.810"
 facility_type = "GND"
+profile_id = "LFPG"
 default_call_sources = [
   "LFPG_SW_GND",
   "LFPG_SE_GND",
@@ -1513,6 +1575,7 @@ id = "LFPO_GND"
 prefixes = ["LFPO"]
 frequency = "121.705"
 facility_type = "GND"
+profile_id = "LFPO"
 default_call_sources = ["LFPO_GND", "LFPO_DEL"]
 
 [[positions]]
@@ -1541,6 +1604,7 @@ id = "LFPG_DEL"
 prefixes = ["LFPG"]
 frequency = "121.840"
 facility_type = "DEL"
+profile_id = "LFPG"
 default_call_sources = ["LFPG_DEL"]
 
 [[positions]]
@@ -1548,6 +1612,7 @@ id = "LFPO_DEL"
 prefixes = ["LFPO"]
 frequency = "121.555"
 facility_type = "DEL"
+profile_id = "LFPO"
 default_call_sources = ["LFPO_DEL"]
 
 [[positions]]
@@ -1555,6 +1620,7 @@ id = "LFPG_ACE_RMP"
 prefixes = ["LFPG"]
 frequency = "121.930"
 facility_type = "RMP"
+profile_id = "LFPG"
 default_call_sources = ["LFPG_ACE_RMP"]
 
 [[positions]]
@@ -1562,6 +1628,7 @@ id = "LFPG_BD_RMP"
 prefixes = ["LFPG"]
 frequency = "121.640"
 facility_type = "RMP"
+profile_id = "LFPG"
 default_call_sources = ["LFPG_BD_RMP"]
 
 [[positions]]
@@ -1569,6 +1636,7 @@ id = "LFPG_FDX_RMP"
 prefixes = ["LFPG"]
 frequency = "131.605"
 facility_type = "RMP"
+profile_id = "LFPG"
 default_call_sources = ["LFPG_FDX_RMP"]
 
 [[positions]]
@@ -1576,6 +1644,7 @@ id = "LFPG_F_RMP"
 prefixes = ["LFPG"]
 frequency = "121.580"
 facility_type = "RMP"
+profile_id = "LFPG"
 default_call_sources = ["LFPG_F_RMP"]
 
 [[positions]]
@@ -1583,6 +1652,7 @@ id = "LFPG_J_RMP"
 prefixes = ["LFPG"]
 frequency = "121.880"
 facility_type = "RMP"
+profile_id = "LFPG"
 default_call_sources = ["LFPG_J_RMP"]
 
 [[positions]]
@@ -1590,6 +1660,7 @@ id = "LFPG_KL_RMP"
 prefixes = ["LFPG"]
 frequency = "121.680"
 facility_type = "RMP"
+profile_id = "LFPG"
 default_call_sources = ["LFPG_KL_RMP"]
 
 [[positions]]
@@ -1597,6 +1668,7 @@ id = "LFPG_RMP"
 prefixes = ["LFPG"]
 frequency = "121.940"
 facility_type = "RMP"
+profile_id = "LFPG"
 default_call_sources = [
   "LFPG_RMP",
   "LFPG_BD_RMP",

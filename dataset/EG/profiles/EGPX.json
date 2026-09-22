@@ -630,7 +630,8 @@
                       },
                       {
                         "label": ["EDYY", "Delta", "245+"],
-                        "color": "azure"
+                        "color": "azure",
+                        "station_id": "EDYY_D"
                       }
                     ]
                   }
@@ -644,7 +645,8 @@
                     "keys": [
                       {
                         "label": ["EDYY", "Delta", "245+"],
-                        "color": "azure"
+                        "color": "azure",
+                        "station_id": "EDYY_D"
                       },
                       {
                         "label": ["EHAA W", "245-"],
@@ -956,9 +958,7 @@
                     "label": []
                   },
                   {
-                    "label": ["QL", "Approach"],
-                    "color": "azure",
-                    "station_id": "EGQL_A_APP"
+                    "label": []
                   },
                   {
                     "label": [""]
